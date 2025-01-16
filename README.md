@@ -27,8 +27,25 @@
 ---
 
 ## 💥 **Dynamic GitHub Stats**
+
+### 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantKale106&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true&card_width=400)
+
+### 📈 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&theme=radical&hide_title=true&card_width=400)
+
+### 📅 **Contribution Activity**
+![GitHub Contribution Activity](https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=radical&hide_title=true&card_width=400)
+
+### ⚡ **Commits Per Day**
+![Commits Per Day](https://github-readme-activity-graph.cyclic.app/graph?username=VedantKale106&theme=radical&hide_title=true&card_width=400)
+
+### 💻 **Coding Streaks**
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=radical&hide_title=true&card_width=400)
+
+### 🎯 **Recent GitHub Activity**
+![Recent GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=VedantKale106&theme=radical&hide_title=true&card_width=400)
+
 
 ---
 
@@ -43,20 +60,14 @@
 
 ## 🌐 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VedantKale106)
 
 ---
 
 ## 📚 **Fun Facts**
-- **Languages**: Currently learning **Japanese**.
 - **Philosophy**: Reading philosophy books and engaging in philosophical discussions.
 - **Coding Challenges**: I regularly practice coding on **LeetCode**, **HackerRank**.
 
 ---
 
-## 🎨 **Neon Visual Effects (GIFs)**
-![Neon Animation](https://media.giphy.com/media/1qA7Gb58GApyg/giphy.gif)  
-*Feel free to check out the animated neon glow effect!*
 
----
