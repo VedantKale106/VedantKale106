@@ -1,81 +1,68 @@
-## 👋 Hi, I’m **Vedant Kale** (@VedantKale106)
+## 🚀 **Vedant Kale** (@VedantKale106)
 
-### About Me
-- 👀 **Passionate** about **Self-Development**, **Coding**, **Philosophy**, and **Tech Exploration**.
-- 🌱 Currently in my **3rd year of BTech in Computer Science** at **PCCOE**, with a focus on **Machine Learning**, **Data Science**, and **Web Development**.
-- 💞️ Looking to **collaborate** on projects involving **Machine Learning**, **Web Development**, **AI**, and **Data Engineering**.
-- 📫 Reach me via **Email**: [vedant.kale22@pccoepune.org](mailto:vedant.kale22@pccoepune.org)
-- 😄 Pronouns: **He/His**
-- ⚡ Fun fact: **Always on the lookout for new technologies and philosophical ideas!**
+### 🔥 **About Me**
+👀 I’m **passionate** about **Self-Development**, **Coding**, **Philosophy**, and **Tech Exploration**.  
+🌱 A **3rd-year BTech student** in **Computer Science** at **PCCOE**, focusing on **Machine Learning**, **AI**, **Web Development**, and **Data Science**.  
+💞 Looking to **collaborate** on projects involving **ML**, **AI**, **Web Apps**, and **Data Engineering**.  
+📫 Reach me via **Email**: [vedant.kale22@pccoepune.org](mailto:vedant.kale22@pccoepune.org)  
+⚡ Fun fact: I am constantly learning **new technologies** and expanding my knowledge!  
 
 ---
 
-### 🛠 Languages & Tools
+### 💻 **Skills & Tools**
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat&logo=TensorFlow&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-007ACC?style=flat&logo=python&logoColor=white)
 
----
-
-### 📖 Projects I’ve Worked On:
-- **Machine Learning**: Developed predictive models using **Random Forest**, **XGBoost**, **SVM**, and **Neural Networks** for datasets in healthcare, finance, and retail domains.
-- **Flask Web Apps**: Built and deployed APIs and **data visualization dashboards** using **Flask**. Integrated **MongoDB** for dynamic data storage.
-- **Data Science**: Conducted exploratory data analysis (EDA) and built **predictive models** using **Pandas**, **NumPy**, and **Scikit-learn**.
-- **Web Scraping**: Automated data extraction from websites using **BeautifulSoup**, **Selenium**, and **Scrapy**.
-- **MongoDB Projects**: Created and managed scalable databases using **MongoDB** for large-scale applications.
+### 💥 **Dynamic GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantKale106&show_icons=true&count_private=true&hide=prs&theme=dracula&hide_title=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&theme=dracula&hide_title=true&card_width=400)
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantKale106&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&theme=radical)
+### 🧠 **What I’m Currently Learning**
+
+- **Reinforcement Learning**: **Q-Learning**, **Deep Q Networks (DQN)**, **Policy Gradient Methods**.
+- **Deep Learning**: Focus on **NLP**, **CNNs**, and **RNNs** using **TensorFlow** and **PyTorch**.
+- **Web Development**: Mastering **Flask** and **MongoDB** for full-stack development.
+- **Big Data**: Learning **Apache Spark** and **ETL** techniques for scalable data processing.
 
 ---
 
-### 🌱 What I’m Currently Learning:
-- **Reinforcement Learning**: Exploring models like **Q-Learning**, **Deep Q Networks (DQN)**, and **Policy Gradient Methods**.
-- **Deep Learning**: Working on **NLP**, **CNNs**, and **RNNs** using **TensorFlow** and **PyTorch**.
-- **Web Development**: Improving my **Flask** and **MongoDB** integration skills to create full-stack applications.
-- **Data Engineering**: Learning **Apache Spark** and **ETL processes** for big data applications.
+### 🚀 **Projects & Achievements**
+
+- **Machine Learning Projects**: Built predictive models for **Healthcare**, **Finance**, and **Retail** sectors using algorithms like **Random Forest**, **SVM**, and **Neural Networks**.
+- **Web Development**: Created and deployed **Flask** web apps with **MongoDB** integration, enabling scalable backend systems.
+- **Web Scraping**: Automated data extraction using **Selenium** and **BeautifulSoup**.
+- **LeetCode & Hackathons**: Ranked in the **Top 5%** of **LeetCode** challenges. Participated in multiple **Hackathons** with **top ranks**.
+- **GitHub Contributions**: Contributed to **open-source projects** in **Machine Learning**, **Web Development**, and **Data Science**.
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 **Let’s Connect**
 
+#### ✨ Social Links:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VedantKale106)
 
 ---
 
-### 🏆 My Achievements:
-- **Ranked Top 5%** in **LeetCode** monthly coding challenges.
-- **Completed** multiple data science courses on **Coursera** and **Udemy**.
-- **Contributed to open-source projects** on **GitHub** in the **Machine Learning** and **Web Development** domains.
-- **Participated** in various **hackathons** and **coding competitions** with top ranks.
+### 📚 **Fun Facts**
+- **Languages**: Learning **Japanese** and diving into the **culture**.
+- **Philosophy Lover**: I love reading **philosophy** books and engaging in thought-provoking discussions.
+- **Coding Challenges**: I regularly practice coding on **LeetCode**, **HackerRank**, and solve algorithmic problems.
 
 ---
 
-### 📚 Fun Facts:
-- **Languages**: Currently learning **Japanese** and exploring **Japanese culture**.
-- I enjoy **reading** philosophy books and diving into **philosophical debates**.
-- Always challenge myself with **LeetCode** and **HackerRank** problems to sharpen my coding skills.
-
----
-
-### 🔗 My Repositories:
-
+### 🔗 **My Repositories**
 - [Machine Learning Projects](https://github.com/VedantKale106/machine-learning-projects)
 - [Flask Web Apps](https://github.com/VedantKale106/flask-web-apps)
 - [Web Scraping Projects](https://github.com/VedantKale106/web-scraping-projects)
@@ -83,6 +70,5 @@
 
 ---
 
-**Let’s Connect and Collaborate!** 🚀
-
-Feel free to reach out if you are interested in any of my projects or want to work together on exciting tech challenges!
+**Let’s Create the Future, Together!** 🚀  
+Feel free to reach out for collaboration or exciting tech conversations!
