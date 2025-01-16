@@ -34,29 +34,8 @@
 ### 📈 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&theme=radical&hide_title=true&card_width=400)
 
-### 📅 **Contribution Activity**
-![GitHub Contribution Activity](https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=radical&hide_title=true&card_width=400)
-
-### ⚡ **Commits Per Day**
-![Commits Per Day](https://github-readme-activity-graph.cyclic.app/graph?username=VedantKale106&theme=radical&hide_title=true&card_width=400)
-
-### 💻 **Coding Streaks**
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=radical&hide_title=true&card_width=400)
-
-### 🎯 **Recent GitHub Activity**
-![Recent GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=VedantKale106&theme=radical&hide_title=true&card_width=400)
-
-
 ---
 
-## 🚀 **Projects & Achievements**
-- **Machine Learning Projects**: Built predictive models for **Healthcare**, **Finance**, and **Retail** sectors using **Random Forest**, **SVM**, and **Neural Networks**.
-- **Web Development**: Created and deployed **Flask** web apps integrated with **MongoDB**.
-- **Web Scraping**: Automated data extraction using **Selenium** and **BeautifulSoup**.
-- **LeetCode & Hackathons**: Ranked in the **Top 5%** on **LeetCode**. Participated in **Hackathons** with top ranks.
-- **GitHub Contributions**: Contributed to **open-source** projects in **ML**, **Data Science**, and **Web Development**.
-
----
 
 ## 🌐 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
