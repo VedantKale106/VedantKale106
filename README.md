@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Vedant+Kale+👋;Welcome+to+my+GitHub!&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Vedant+👋;Welcome+to+my+GitHub!&center=true&size=30">
 </h1>
 
 <p align="center">
@@ -44,10 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
 ## 🎯 Current Focus
 
 ```mermaid
@@ -56,11 +52,9 @@ mindmap
     Machine Learning
       Deep Learning
       Neural Networks
-      Computer Vision
     Web Development
-      Flask
-      Frontend
-      Backend
+      Frontend - Html,Css,Js
+      Backend - Flask,Mongodb
     Data Engineering
       ETL
       Data Pipelines
