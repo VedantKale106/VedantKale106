@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://th.bing.com/th/id/R.d09503718c321539adf83478856adb7e?rik=WguG1z04eilESQ&riu=http%3a%2f%2fmedia0.giphy.com%2fmedia%2fIO2ICudgtBjby%2fgiphy.gif&ehk=8SLucr6yyOo%2fYtGp%2fdcKFMrFYWPGj%2bZwKendYH2vjcQ%3d&risl=&pid=ImgRaw&r=0)" width="400px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://th.bing.com/th/id/R.d09503718c321539adf83478856adb7e?rik=WguG1z04eilESQ&riu=http%3a%2f%2fmedia0.giphy.com%2fmedia%2fIO2ICudgtBjby%2fgiphy.gif&ehk=8SLucr6yyOo%2fYtGp%2fdcKFMrFYWPGj%2bZwKendYH2vjcQ%3d&risl=&pid=ImgRaw&r=0)" width="400px">
 </div>
 
 ## 🚀 About Me
