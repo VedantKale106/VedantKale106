@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/storm-area-51-naruto-run-JRlqKEzTDKci5JPcaL](https://giphy.com/gifs/naruto-shippuden-nBvri64uO4sX6)" width="400px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2NqNjU2d2V5NnVzYjlpcTJxZDVpNWYwMjc5ZnRndGl3b3lhMG9lcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JRlqKEzTDKci5JPcaL/giphy.gif" width="400px">
 </div>
 
 ## 🚀 About Me
