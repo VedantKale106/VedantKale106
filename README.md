@@ -1,52 +1,92 @@
-# 🚀 **Vedant Kale** (@VedantKale106)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Vedant+Kale+👋;Welcome+to+my+GitHub!&center=true&size=30">
+</h1>
 
-## 🔥 **About Me**
-👀 I’m passionate about **self-development**, **coding**, **philosophy**, and **technology**.  
-🌱 I’m a **3rd-year BTech student** in **Computer Science** at **PCCOE**, focusing on **Machine Learning**, **AI**, and **Web Development**.  
-💞 I’m looking to collaborate on projects involving **ML**, **AI**, **Web Apps**, and **Data Engineering**.  
-📫 Reach me via **Email**: [vedant.kale22@pccoepune.org](mailto:vedant.kale22@pccoepune.org)  
-⚡ Fun fact: I’m constantly learning new things and exploring technologies!
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VedantKale106&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/VedantKale106?label=Followers&style=social" alt="GitHub Followers">
+</p>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+</div>
 
-## 💻 **Skills & Tools**
-- **Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+## 🚀 About Me
+> *"The only way to do great work is to love what you do."* - Steve Jobs
+
+👨‍💻 I'm a **3rd-year BTech student** in **Computer Science** at **PCCOE**  
+🌟 Passionate about **Self-Development**, **Coding**, **Philosophy**, and **Technology**  
+🎯 Currently focusing on **Machine Learning**, **AI**, and **Web Development**  
+🌱 Always learning and exploring new technologies  
+💡 Open to collaborating on projects involving **ML**, **AI**, **Web Apps**, and **Data Engineering**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+[![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)](https://isocpp.org)
+[![SQL](https://img.shields.io/badge/SQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+
+### 🔧 Frameworks & Tools
+[![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)](https://flask.palletsprojects.com)
+[![Machine Learning](https://img.shields.io/badge/ML-★★★☆☆-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://tensorflow.org)
+[![Git](https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://mongodb.com)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VedantKale106&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantKale106&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+## 🎯 Current Focus
+
+```mermaid
+mindmap
+  root((Vedant's Focus))
+    Machine Learning
+      Deep Learning
+      Neural Networks
+      Computer Vision
+    Web Development
+      Flask
+      Frontend
+      Backend
+    Data Engineering
+      ETL
+      Data Pipelines
+      Big Data
+```
+
+## 🌟 Achievements & Activities
+- 🏆 Active participant in coding competitions
+- 📚 Regular contributor to open-source projects
+- 💻 LeetCode & HackerRank enthusiast
+- 📖 Philosophy book club member
+
+## 📬 Let's Connect!
+
+<div align="center">
   
-- **Frameworks & Libraries**: 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) 
-  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat&logo=TensorFlow&logoColor=white)
-  
-- **Tools**: 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant.kale22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantKale106)
+
+</div>
 
 ---
 
-## 💥 **Dynamic GitHub Stats**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</div>
 
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantKale106&show_icons=true&count_private=true&hide=prs&theme=radical&hide_title=true&card_width=400)
-
-### 📈 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantKale106&layout=compact&theme=radical&hide_title=true&card_width=400)
-
----
-
-
-## 🌐 **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/VedantKale106)
-
----
-
-## 📚 **Fun Facts**
-- **Philosophy**: Reading philosophy books and engaging in philosophical discussions.
-- **Coding Challenges**: I regularly practice coding on **LeetCode**, **HackerRank**.
-
----
-
-
+<h3 align="center">Thank you for visiting! 😊</h3>
