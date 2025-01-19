@@ -81,15 +81,13 @@ mindmap
       Jupyter
       VSCode
 ```
+--- 
 
 ## 📬 Let's Connect!
 
 <div align="center">
   <p>I'm always open to connecting! Feel free to reach out to me via any of the following:</p>
   
-  <!-- Animated text effect: bounce effect (only visible when rendered in a markdown previewer) -->
-  <h3>👇 Connect with me below 👇</h3>
-
   <a href="mailto:vedant.kale22@pccoepune.org">
     [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
   </a>
@@ -101,20 +99,14 @@ mindmap
   <a href="https://github.com/VedantKale106">
     [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
   </a>
-  
-  <!-- Friendly closing text with emojis -->
-  <p>Let’s collaborate and create amazing things together! 🚀</p>
 
+  <p>Let’s connect and collaborate on awesome projects! 🚀</p>
 </div>
 
 ---
 
 ### 📍 Stay in touch
-
-Feel free to connect with me through my social media platforms or email. Let's work together and create something awesome! 🌟
-
-### 💬 I'm looking forward to hearing from you!
-
+Feel free to connect with me through my social media platforms or email. Let's work together and create something amazing!
 
 ---
 
