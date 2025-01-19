@@ -82,26 +82,14 @@ mindmap
       VSCode
 ```
 --- 
-
 ## 📬 Let's Connect!
 
 <div align="center">
-  <p>I'm always open to connecting! Feel free to reach out to me via any of the following:</p>
   
-  <a href="mailto:vedant.kale22@pccoepune.org">
-    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-  </a>
-  
-  <a href="https://www.linkedin.com/in/vedantkale106/">
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-  </a>
-  
-  <a href="https://github.com/VedantKale106">
-    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
-  </a>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant.kale22@pccoepune.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantKale106)
 
-  <p>Let’s connect and collaborate on awesome projects! 🚀</p>
-</div>
 
 ---
 
