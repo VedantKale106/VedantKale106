@@ -60,7 +60,7 @@
 </div>
 
 ## 🎯 Current Focus
-mermaid
+```mermaid
 mindmap
   root((My Stack))
     Machine Learning
@@ -80,7 +80,7 @@ mindmap
       Git
       Jupyter
       VSCode
-
+```
 
 ## 📬 Let's Connect!
 
