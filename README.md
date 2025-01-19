@@ -85,12 +85,31 @@ mindmap
 ## 📬 Let's Connect!
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedant.kale22@pccoepune.org)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedantkale106/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VedantKale106)
-
+  <a href="mailto:vedant.kale22@pccoepune.org">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+         alt="Email" class="animated-link">
+  </a>
+  <a href="https://www.linkedin.com/in/vedantkale106/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn" class="animated-link">
+  </a>
+  <a href="https://github.com/VedantKale106">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
+         alt="GitHub" class="animated-link">
+  </a>
 </div>
+
+<style>
+  .animated-link {
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .animated-link:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+  }
+</style>
+
 
 ---
 
