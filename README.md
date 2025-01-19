@@ -12,7 +12,7 @@
 </div>
 
 ## 🚀 About Me
-> *"The only way to do great work is to love what you do."* - Steve Jobs
+> *"Iroiro Arigato Gozaimashita 🙏 "*
 
 👨‍💻 I'm a **3rd-year BTech student** in **Computer Science** at **PCCOE**  
 🌟 Passionate about **Self-Development**, **Coding**, **Philosophy**, and **Technology**  
@@ -28,12 +28,27 @@
 [![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 [![C++](https://img.shields.io/badge/C++-★★★★☆-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)](https://isocpp.org)
 [![SQL](https://img.shields.io/badge/SQL-★★★☆☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
+[![HTML](https://img.shields.io/badge/HTML-★★★☆☆-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-★★★☆☆-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![R](https://img.shields.io/badge/R-★★★☆☆-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=101010)](https://www.r-project.org)
+[![Java](https://img.shields.io/badge/Java-★★★★☆-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)](https://www.java.com)
 
-### 🔧 Frameworks & Tools
+
+### 🔧 Frameworks & Libraries
 [![Flask](https://img.shields.io/badge/Flask-★★★★☆-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)](https://flask.palletsprojects.com)
 [![Machine Learning](https://img.shields.io/badge/ML-★★★☆☆-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=101010)](https://tensorflow.org)
+[![Pandas](https://img.shields.io/badge/Pandas-★★★★☆-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)](https://pandas.pydata.org)
+[![Sklearn](https://img.shields.io/badge/Sklearn-★★★★☆-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)](https://scikit-learn.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-★★★★☆-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=101010)](https://streamlit.io)
+[![Numpy](https://img.shields.io/badge/Numpy-★★★★☆-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)](https://numpy.org)
+
+### 🛠 Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-★★★★☆-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-★★★☆☆-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)](https://mongodb.com)
+[![Jupyter](https://img.shields.io/badge/Jupyter-★★★★☆-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)](https://jupyter.org)
+[![VSCode](https://img.shields.io/badge/VSCode-★★★★☆-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)](https://code.visualstudio.com)
+[![Data Science](https://img.shields.io/badge/Data_Science-★★★★☆-009C8C?style=for-the-badge&logo=databricks&logoColor=white&labelColor=101010)](https://www.databricks.com)
+
 
 </div>
 
@@ -46,26 +61,26 @@
 
 ## 🎯 Current Focus
 
-```mermaid
 mindmap
   root((My Stack))
     Machine Learning
-      Deep Learning
-      Neural Networks
+      Feature Engineering
+      Pandas
+      Sklearn
     Web Development
-      Frontend - Html,Css,Js
-      Backend - Flask,Mongodb
+      Frontend - Html, Css
+      Backend - Flask, SQL, Mongodb
     Data Engineering
-      ETL
       Data Pipelines
-      Big Data
-```
+      ETL
+    Data Science
+      Data Analysis
+      Data Visualization
+    Tools & Platforms
+      Git
+      Jupyter
+      VSCode
 
-## 🌟 Achievements & Activities
-- 🏆 Active participant in coding competitions
-- 📚 Regular contributor to open-source projects
-- 💻 LeetCode & HackerRank enthusiast
-- 📖 Philosophy book club member
 
 ## 📬 Let's Connect!
 
