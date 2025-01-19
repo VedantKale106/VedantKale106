@@ -85,30 +85,35 @@ mindmap
 ## 📬 Let's Connect!
 
 <div align="center">
+  <p>I'm always open to connecting! Feel free to reach out to me via any of the following:</p>
+  
+  <!-- Animated text effect: bounce effect (only visible when rendered in a markdown previewer) -->
+  <h3>👇 Connect with me below 👇</h3>
+
   <a href="mailto:vedant.kale22@pccoepune.org">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email" class="animated-link">
+    [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
   </a>
+  
   <a href="https://www.linkedin.com/in/vedantkale106/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" class="animated-link">
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
   </a>
+  
   <a href="https://github.com/VedantKale106">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-         alt="GitHub" class="animated-link">
+    [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]
   </a>
+  
+  <!-- Friendly closing text with emojis -->
+  <p>Let’s collaborate and create amazing things together! 🚀</p>
+
 </div>
 
-<style>
-  .animated-link {
-    transition: transform 0.3s, box-shadow 0.3s;
-  }
+---
 
-  .animated-link:hover {
-    transform: scale(1.1);
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-  }
-</style>
+### 📍 Stay in touch
+
+Feel free to connect with me through my social media platforms or email. Let's work together and create something awesome! 🌟
+
+### 💬 I'm looking forward to hearing from you!
 
 
 ---
