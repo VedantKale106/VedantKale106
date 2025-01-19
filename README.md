@@ -60,7 +60,7 @@
 </div>
 
 ## 🎯 Current Focus
-
+mermaid
 mindmap
   root((My Stack))
     Machine Learning
