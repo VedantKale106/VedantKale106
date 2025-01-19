@@ -76,7 +76,7 @@ mindmap
     Data Science
       Data Analysis
       Data Visualization
-    Tools & Platforms
+    Tools and Platforms
       Git
       Jupyter
       VSCode
