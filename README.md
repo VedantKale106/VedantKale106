@@ -14,7 +14,7 @@
 ## 🚀 About Me
 > *"Iroiro Arigato Gozaimashita 🙏 "*
 
-👨‍💻 I'm a **3rd-year BTech student** in **Computer Science** at **PCCOE**  
+👨‍💻 I'm a **Final-year BTech student** in **Computer Science** at **PCCOE**  
 🌟 Passionate about **Self-Development**, **Coding**, **Philosophy**, and **Technology**  
 🎯 Currently focusing on **Machine Learning**, **AI**, and **Web Development**  
 🌱 Always learning and exploring new technologies  
